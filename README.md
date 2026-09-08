@@ -29,7 +29,7 @@ The governing objective is straightforward: build intelligence systems that rema
 > Maturity labels are intentionally conservative. They describe the current public engineering/research posture and do not imply production deployment.
 
 - **TSIACS** — mission umbrella for human-governed intelligence at civilizational scale. **Status: Research & Engineering Mission**
-- **TransitSphere** — interoperable, human-governed mobility intelligence and control-plane research. **Status: Engineering Development**
+- **[TransitSphere](https://github.com/aahmed2440/TransitSphere)** — interoperable, human-governed mobility intelligence and control-plane research. **Status: Engineering Development**
 - **CryptoSphere** — cryptography, cyber-resilience, security architecture and post-quantum research environment. **Status: Research / Prototype**
 - **MarketSphere** — evidence-aware, human-governed market and macro intelligence research environment. **Status: Research / Prototype**
 - **CosmicSphere** — astronomy, astrophysics, cosmology and scientific-intelligence research lane. **Status: Research**
@@ -48,6 +48,10 @@ The governing objective is straightforward: build intelligence systems that rema
 - **Progressive validation before scale**
 
 ## Public Work
+
+### [`TransitSphere`](https://github.com/aahmed2440/TransitSphere)
+
+Flagship engineering-research repository for vendor-neutral mobility intelligence, canonical interoperability, evidence provenance, digital twins, causal verification, security, resilience, and governed decision support.
 
 ### [`My-Files`](https://github.com/aahmed2440/My-Files)
 
